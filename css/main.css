@@ -1782,6 +1782,9 @@ body {
           flex: 0 0 35rem;
   max-width: 35rem;
   height: 34.875rem;
+  -webkit-align-self: baseline;
+      -ms-flex-item-align: baseline;
+          align-self: baseline;
 }
 
 @media (max-width: 1200px) {
